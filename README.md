@@ -1,3 +1,3 @@
 # LINUXkurssi
-linux-kurssin tehtävät
-Palautan tänne Haaga-Helian linux-kurssin rapsat :)
+linux-kurssien tehtävät
+Palautan tänne Haaga-Helian linux-kurssien rapsat ja tehtävät :)

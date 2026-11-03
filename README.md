@@ -1,4 +1,5 @@
 ---
+permalink: /
 ---
 {% include menu.html %}
 

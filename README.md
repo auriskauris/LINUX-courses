@@ -1,6 +1,5 @@
 ---
 ---
-
 {% include menu.html %}
 
 # LINUXkurssi
